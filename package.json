@@ -6,5 +6,9 @@
   "repository": "https://github.com/altrae/rebase-tutorial.git",
   "author": "Aaron Dewberry <aaron.dewberry@fmglobal.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "tailwindcss": "^3.4.7",
+    "typescript": "^5.5.4"
+  }
 }
