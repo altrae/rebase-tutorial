@@ -1,0 +1,10 @@
+{
+  "name": "rebase-tutorial",
+  "version": "1.0.0",
+  "description": "Rebase yo'self",
+  "main": "index.js",
+  "repository": "https://github.com/altrae/rebase-tutorial.git",
+  "author": "Aaron Dewberry <aaron.dewberry@fmglobal.com>",
+  "license": "MIT",
+  "private": false
+}
